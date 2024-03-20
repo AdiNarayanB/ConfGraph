@@ -1,4 +1,4 @@
-##Datasets and Setup Scripts
+## Datasets and Setup Scripts
 
 This project can be set up with docker locally, the image already has the processed data necessary to run the web app locally. 
 

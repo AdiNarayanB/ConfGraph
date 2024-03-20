@@ -1,3 +1,11 @@
+##Datasets and Setup Scripts
+
+This project can be set up with docker locally, the image already has the processed data necessary to run the web app locally. 
+
+The author graph data can be found in authorGraphMini.json, and it can be assumed that the keyword graph data is very similar in structure, with the difference being the key used(the keyphrase itself). This dataset is too large to upload but can be viewed within the image if needed. 
+
+
+
 ## Setup Instructions
 
 1. **Install Docker**
